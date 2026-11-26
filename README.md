@@ -2,6 +2,8 @@
 
 This project is a practice exercise to learn Markdown and Git from Iker Perea.
 
+This is a new line added to the introduction.
+
 <img src="images/git.webp" alt="Project Logo" width="100">
 
 ## Table of Contents
