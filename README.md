@@ -16,6 +16,10 @@ This section introduces the project.
 
 ## Features
 
+This project has **important features** that are *really useful*. Use `git commit` to save your changes.
+
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
 | Feature | Description | Status |
 |---------|-------------|--------|
 | Markdown docs | Documentation written in Markdown | Completed |
@@ -27,6 +31,16 @@ Main features of the project.
 Clone the repository to install it.
 
 ## Usage
+
+```python
+# This is a simple Python function to add two numbers
+def add_numbers(a, b):
+    """Return the sum of a and b."""
+    return a + b
+# Example usage
+result = add_numbers(5, 7)
+print("The sum is:", result)
+```
 See the example below.
 
 ## License
