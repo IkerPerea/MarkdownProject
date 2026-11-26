@@ -2,6 +2,8 @@
 
 This project is a practice exercise to learn Markdown and Git from Iker Perea.
 
+![Project Logo](images/logo.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
