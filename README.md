@@ -2,7 +2,7 @@
 
 This project is a practice exercise to learn Markdown and Git from Iker Perea.
 
-![Project Logo](images/logo.png)
+<img src="images/git.webp" alt="Project Logo" width="100">
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,6 +15,12 @@ This project is a practice exercise to learn Markdown and Git from Iker Perea.
 This section introduces the project.
 
 ## Features
+
+| Feature | Description | Status |
+|---------|-------------|--------|
+| Markdown docs | Documentation written in Markdown | Completed |
+| Branching | Work with feature branches | In Progress |
+| GitHub sync | Push and pull from GitHub | Planned |
 Main features of the project.
 
 ## Installation
