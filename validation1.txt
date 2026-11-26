@@ -1,0 +1,124 @@
+commit af8d310f917e4d9473bd52976c562ae319d63252
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:29:24 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 2e3e53701064d46cb4a0c24ff8f1688de99de4af
+Merge: 090fc2d 2489eba
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:29:17 2026 +0100
+
+    Merge add-license branch into main
+
+commit 2489ebab24b1c29c32d562f07626f01b2bcf6605
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:29:04 2026 +0100
+
+    Add MIT License
+
+ LICENSE.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit d0217661006441d3d1accfeb14324ae819a27ec9
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:28:34 2026 +0100
+
+    Add MIT License
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 090fc2da184fd155e27dcff778c41973b339bc12
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:27:41 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit ef3b9aea1ef640328938b045fd0c3a51a6bd3a51
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:27:04 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit f59614a81337d4385964f78363d5ac073bf7c3ae
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:25:54 2026 +0100
+
+    Addd project logo
+
+ images/git.webp | Bin 0 -> 26552 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d096d5e477fd991b436cda922d5b4c198c0ef266
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:25:32 2026 +0100
+
+    Resize project logo
+
+ images/logo.png | Bin 2220 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f591caa76f61031663f488b94b14a9408d001351
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:15:30 2026 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 2220 bytes
+ 2 files changed, 2 insertions(+)
+
+commit 4ed1dac25f0a1d8759ea5abc06f3e1ba989c9ded
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:15:23 2026 +0100
+
+    Add sections to README
+
+ README.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 0b3f530a540363a6dbdee8c71ce445384bbcd00e
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:15:22 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 51a830c99e7b707b02bfc28913a44cfd492ba722
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:13:13 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit 28c3781308fb7595b15844f02e3149814d5a5554
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:13:01 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit daddd81b8cabd18d70ea6645dc85484ea3936136
+Author: IkerPerea <ikerpereatrejo@gmail.com>
+Date:   Thu Nov 26 10:12:39 2026 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
